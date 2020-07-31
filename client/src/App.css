@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+.nav-wrapper{
+  margin:15px 0px 15px 0px !important
+}
+
+h2{
+  font-family: 'Krona One', sans-serif;
+  font-size: 25px !important;
+}
+
+.brand-logo{
+  font-family: 'Krona One', sans-serif
+}
+
+.mycard{
+  margin:35px;
+}
+
+.auth{
+  padding:30px;
+  margin:20px auto;
+  text-align: center;
+  max-width: 400px;
+}
+
+.input-field input[type=text]:focus{
+  border-bottom: 1px solid #0d47af !important;
+  box-shadow:0 1px 0 0 #000 !important;
+}
+
+.material-icons:hover{
+  cursor: pointer;
+}
+
+.mytable{
+  margin:20px 3px 20px 3px !important;
+}
+
+.mycharts{
+  display:flex;
+  border: 10px solid black;
+  margin:10px auto;
+  justify-content: space-between;
+  width: fit-content;
+}
